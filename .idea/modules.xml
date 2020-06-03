@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CourseTable.iml" filepath="$PROJECT_DIR$/CourseTable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CourseTable-master.iml" filepath="$PROJECT_DIR$/CourseTable-master.iml" group="CourseTable-master" />
-      <module fileurl="file://$PROJECT_DIR$/app/CourseTable-master-app.iml" filepath="$PROJECT_DIR$/app/CourseTable-master-app.iml" group="CourseTable-master/app" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YunShuClassSchedule-dev.iml" filepath="$PROJECT_DIR$/YunShuClassSchedule-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="YunShuClassSchedule-dev/app" />
+      <module fileurl="file://$PROJECT_DIR$/project.YunShuClassSchedule-dev.iml" filepath="$PROJECT_DIR$/project.YunShuClassSchedule-dev.iml" group="YunShuClassSchedule-dev" />
     </modules>
   </component>
 </project>
